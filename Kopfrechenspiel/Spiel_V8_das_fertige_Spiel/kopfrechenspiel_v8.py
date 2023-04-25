@@ -93,3 +93,4 @@ if __name__ == '__main__':
         print(f"The solution is: {solution}")
     report_solved_task(solved, num_tasks)
     print("Github")
+    print("Github2")
