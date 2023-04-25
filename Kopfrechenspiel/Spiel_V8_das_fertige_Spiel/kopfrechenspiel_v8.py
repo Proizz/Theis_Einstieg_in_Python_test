@@ -92,3 +92,4 @@ if __name__ == '__main__':
                 break
         print(f"The solution is: {solution}")
     report_solved_task(solved, num_tasks)
+    print("Github")
